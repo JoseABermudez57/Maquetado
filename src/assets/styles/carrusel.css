@@ -1,0 +1,22 @@
+.carrusel-div{
+    display: flex;
+    margin-left: 20%;
+}
+
+.carrusel-div img {
+    width: 50%;
+    padding-top: 20px;
+}
+
+.button{
+    width: 100px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0ch solid;
+}
+
+.button:hover{
+    margin-top: 20px;
+    height: 180px;
+    background-color: rgba(0, 0, 0, 0.349);
+}

@@ -1,0 +1,42 @@
+.title{
+    color: black;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.center{
+    text-align: center;
+    padding-top: 30px;
+}
+.restauarants{
+    text-align: center;
+    padding-top: 30px;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+.restaurant{
+    margin: auto;
+    padding: 3px;
+    width: 260px;
+    background-color: black;
+    border: solid rgb(0, 37, 201) 2px;
+    padding-bottom: 15px;
+}
+
+.restaurant:hover{
+    border: solid rgb(0, 37, 201) 4px;
+}
+
+.restaurant img{
+    width: 255px;
+    height: 255px;
+    padding-bottom: 15px;
+}
+
+.restaurant label{
+    font-family: cursive;
+    font-size: large;
+    width: 255px;
+    color: rgb(38, 0, 255);
+}
