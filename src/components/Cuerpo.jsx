@@ -2,8 +2,8 @@ import '../assets/styles/cuerpo.css'
 import Opciones from "./Opciones";
 import Carrusel from "./Carrusel";
 import Rafitas from '../assets/images/Rafitas.png'
-import tia from '../assets/images/tia.png'
-import zuñiga from '../assets/images/zuñiga.png'
+import Ciros from '../assets/images/Ciros.png'
+import Pollo from '../assets/images/Pollo.png'
 function Cuerpo() {
     return ( 
         <>
@@ -20,11 +20,11 @@ function Cuerpo() {
                     <label htmlFor="">Abierto</label>
                 </div>
                 <div className="restaurant">
-                    <img src={zuñiga} alt="" />
+                    <img src={Ciros} alt="" />
                     <label htmlFor="">Abierto</label>
                 </div>
                 <div className="restaurant">
-                    <img src={tia} alt="" />
+                    <img src={Pollo} alt="" />
                     <label htmlFor="">Abierto</label>
                 </div>
             </div>

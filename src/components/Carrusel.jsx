@@ -1,6 +1,6 @@
 import asd from "../assets/images/asd.png";
 import ad2 from "../assets/images/ad2.png";
-import carr from "../assets/images/carr.png";
+import carr from "../assets/images/Pizza.png";
 import '../assets/styles/carrusel.css'
 
 function Carrusel() {
